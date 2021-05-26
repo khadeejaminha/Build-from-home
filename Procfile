@@ -1,1 +1,1 @@
-web: gunicorn Build-from-home.wsgi --log-file -
+web: gunicorn SCM.wsgi --log-file -
