@@ -19,6 +19,6 @@ from django.conf.urls import include
 
 urlpatterns = [
     # path(r'^/',views.index,name='index'),
-    path('scm/',include('scmapp.urls')),
+    path('',include('scmapp.urls')),
     path('admin/', admin.site.urls),
 ]
