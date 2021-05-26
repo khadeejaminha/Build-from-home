@@ -26,7 +26,7 @@ SECRET_KEY = 'czha6a=ow(iw^4%^orzg$)lo1riu@a(=abn)g(^g1scf8$qt6='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ 'siaseventportal.herokuapp.com','127.0.1']
+ALLOWED_HOSTS = [ 'siaseventportal.herokuapp.com','127.0.0.1']
 
 
 # Application definition
